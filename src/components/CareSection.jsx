@@ -15,27 +15,27 @@ export default function CareTypesSection() {
 
   const careTypes = [
     {
-      title: "Older Person Care",
+      title: "Visiting Care",
       description:
-        "Older person care supports seniors in maintaining their health, independence, and quality of life. It combines practical assistance with emotional support in a safe and comfortable environment.",
+        " Visiting care provides regular support at home, helping with daily tasks, personal care, and companionship. It’s flexible and tailored to meet individual needs while allowing clients to remain independent.",
       href: "/care/residential/",
     },
     {
-      title: "Dementia Care",
+      title: "Live-in Care",
       description:
-        "Dementia care focuses on individuals experiencing memory loss or cognitive decline. It provides structured routines, compassionate support, and tailored activities to enhance daily living and well-being.",
+        "Live-in care offers round-the-clock support in the comfort of one’s own home. A dedicated caregiver assists with daily routines, personal care, and emotional support, ensuring safety and continuity of care.",
       href: "/care/dementia/",
     },
     {
-      title: "Learning Disability / Autism",
+      title: "24 Hour Care",
       description:
-        "Care for those with learning disabilities or autism offers personalized support to develop skills, independence, and social engagement. It emphasizes understanding, patience, and tailored approaches to meet individual needs.",
+        "24-hour care provides continuous support for individuals with complex or high-dependency needs. Caregivers are available throughout the day and night to ensure safety, health, and comfort at all times.",
       href: "/care/respite/",
     },
     {
-      title: "Mental Health Condition",
+      title: "Overnight Care (Waking)",
       description:
-        "Mental health care supports individuals facing conditions like anxiety, depression, or other disorders. It combines therapy, guidance, and practical strategies to improve well-being and daily functioning.",
+        "Overnight care ensures a caregiver is present during the night to support those who may need assistance, monitoring, or reassurance. It offers peace of mind for both the individual and their family.",
       href: "/care/nursing/",
     },
   ];

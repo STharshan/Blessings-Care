@@ -24,7 +24,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="150"
             >
-            At Blessings Care Ltd , we provide exceptional care in a warm, welcoming environment where every resident is valued and respected. Our dedicated team of professionals specializes in supporting older adults, individuals living with dementia, those with learning disabilities or autism,
+            At Blessing's Care Ltd, we are committed to delivering outstanding home care services that put comfort, safety, and independence first. Whether it’s visiting care, live-in support, 24-hour care, or specialized overnight care—waking or sleeping—we provide tailored solutions to meet the unique needs of every individual. Our compassionate team ensures that every client receives the highest level of personal attention and professional care in the comfort of their own home.
             </p>
 
             <p
@@ -32,7 +32,7 @@ export default function WelcomeSection() {
               data-aos="fade-up"
               data-aos-delay="300"
             >
-Our purpose-built facilities combine modern convenience with a homely charm, offering beautifully designed living spaces, serene gardens, and engaging activities tailored to each resident’s needs. At The Old Vicarage, we go beyond care—we foster connection, promote independence, and celebrate life’s moments together.
+We believe that quality care is about more than just meeting needs—it’s about enhancing quality of life. At Blessing's Care Ltd, our services are designed to empower, support, and enrich the lives of those we care for, while giving families peace of mind. Discover a home care experience where dedication, expertise, and genuine compassion come together to create a nurturing and supportive environment every day.
             </p>
 
             <div
